@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2021, 2026
+
 
 resource "azurerm_resource_group" "resource_group" {
   name     = "resource_group"
